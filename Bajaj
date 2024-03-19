@@ -1,6 +1,7 @@
 
 
 //intialize -> npm init -y
+//install express -> npm install express
 //make a directory -> using mkdir API
 //change directory -> cd API
 
